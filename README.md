@@ -1,7 +1,8 @@
 # 🧑‍💻 Hi, I'm Sudipto Das
 ### 💻 Frontend Web Developer | React & JavaScript Enthusiast
 
-<img src="./website-development-banner_33099-1687" alt="Sudipto Das - Frontend Developer Banner" width="100%" />
+![GitHub Banner](https://raw.githubusercontent.com/sudiptodas153/sudiptodas153/main/website-development-banner_33099-1687.avif)
+
 
 
 
