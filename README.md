@@ -23,16 +23,13 @@ I love solving UI challenges and turning ideas into reality through clean and fu
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/sudipto-das-677330343/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn" style="vertical-align:middle;" />
-  </a>
-  <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/material-outlined/30/000000/github.png" alt="GitHub" style="vertical-align:middle; margin-left:10px;" />
   </a>
   <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/30/000000/twitter--v1.png" alt="Twitter" style="vertical-align:middle; margin-left:10px;" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:sudiptodas4093@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/30/000000/gmail--v1.png" alt="Email" style="vertical-align:middle; margin-left:10px;" />
   </a>
 </p>
