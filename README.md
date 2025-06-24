@@ -44,12 +44,10 @@ I love solving UI challenges and turning ideas into reality through clean and fu
 </p>
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudiptodas153&show_icons=true&theme=light)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptodas153&layout=compact&theme=light)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudiptodas153&theme=light)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudiptodas153&show_icons=true&theme=light" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptodas153&layout=compact&theme=light" alt="Top Languages" width="48%" />
+</p>
 
