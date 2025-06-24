@@ -23,11 +23,20 @@ I love solving UI challenges and turning ideas into reality through clean and fu
 ## 🌐 Connect with Me
 
 <p>
+   <a href="https://www.facebook.com/yourfacebookprofile" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/30/000000/facebook-new.png" alt="Facebook" style="vertical-align:middle; margin-left:10px;" />
+  </a>
   <a href="https://www.linkedin.com/in/sudipto-das-677330343/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn" style="vertical-align:middle;" />
   </a>
+   <a href="https://www.instagram.com/yourinstaprofile" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/30/000000/instagram-new.png" alt="Instagram" style="vertical-align:middle; margin-left:10px;" />
+  </a>
   <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/30/000000/twitter--v1.png" alt="Twitter" style="vertical-align:middle; margin-left:10px;" />
+  </a>
+  <a href="https://www.youtube.com/channel/yourchannel" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/30/000000/youtube-play.png" alt="YouTube" style="vertical-align:middle; margin-left:10px;" />
   </a>
   <a href="mailto:sudiptodas4093@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/30/000000/gmail--v1.png" alt="Email" style="vertical-align:middle; margin-left:10px;" />
