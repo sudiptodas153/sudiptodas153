@@ -22,8 +22,17 @@ I love solving UI challenges and turning ideas into reality through clean and fu
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)](https://www.linkedin.com/in/yourprofile)  
-[![GitHub](https://img.icons8.com/material-outlined/24/000000/github.png)](https://github.com/yourusername)  
-[![Twitter](https://img.icons8.com/color/24/000000/twitter--v1.png)](https://twitter.com/yourhandle)  
-[![Dev.to](https://img.icons8.com/color/24/000000/dev.png)](https://dev.to/yourhandle)  
-[![Email](https://img.icons8.com/color/24/000000/gmail--v1.png)](mailto:youremail@example.com)
+<p>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn" style="vertical-align:middle;" />
+  </a>
+  <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/material-outlined/30/000000/github.png" alt="GitHub" style="vertical-align:middle; margin-left:10px;" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/30/000000/twitter--v1.png" alt="Twitter" style="vertical-align:middle; margin-left:10px;" />
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/30/000000/gmail--v1.png" alt="Email" style="vertical-align:middle; margin-left:10px;" />
+  </a>
+</p>
