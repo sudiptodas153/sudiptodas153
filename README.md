@@ -22,8 +22,8 @@ I love solving UI challenges and turning ideas into reality through clean and fu
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/yourprofile)  
-[![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/yourusername)  
-[![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/yourhandle)  
-[![Dev.to](https://img.icons8.com/color/48/000000/dev.png)](https://dev.to/yourhandle)  
-[![Email](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:youremail@example.com)
+[![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)](https://www.linkedin.com/in/yourprofile)  
+[![GitHub](https://img.icons8.com/material-outlined/24/000000/github.png)](https://github.com/yourusername)  
+[![Twitter](https://img.icons8.com/color/24/000000/twitter--v1.png)](https://twitter.com/yourhandle)  
+[![Dev.to](https://img.icons8.com/color/24/000000/dev.png)](https://dev.to/yourhandle)  
+[![Email](https://img.icons8.com/color/24/000000/gmail--v1.png)](mailto:youremail@example.com)
