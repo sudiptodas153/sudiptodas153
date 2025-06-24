@@ -1,7 +1,7 @@
 # 🧑‍💻 Hi, I'm Sudipto Das
 ### 💻 Frontend Web Developer | React & JavaScript Enthusiast
 
-<img src="https://files.catbox.moe/lpniw0.png" alt="Sudipto Das - Frontend Developer Banner" width="100%" />
+<img src="./website-development-banner_33099-1687" alt="Sudipto Das - Frontend Developer Banner" width="100%" />
 
 
 
