@@ -4,15 +4,14 @@
 
 ## 🧾 About Me
 
-I’m a creative and curious Frontend Developer who turns ideas into interactive web experiences.  
-I enjoy working with modern technologies like **React**, **Next.js**, and **Tailwind CSS**,  
-and I’m always exploring how to make the web faster, cleaner, and more accessible.
+I'm a passionate and creative Frontend Developer who enjoys building modern, responsive, and accessible web applications.  
+I love solving UI challenges and turning ideas into reality through clean and functional code.
 
-💡 I don’t just write code — I design user journeys, debug with patience,  
-and continuously learn to build things that actually make a difference.
+**🔍 Currently working on:**
+- Exploring **Next.js** and building full-stack features  
+- Developing a tourism website with React  
+- Learning performance optimization techniques  
+- Contributing to open-source projects when I can  
 
-**Tech I love working with:**  
-React · JavaScript · Next.js · Tailwind CSS · Git · Firebase · Figma
-
-🔄 Currently sharpening my skills in performance optimization and full-stack integration.
+---
 
