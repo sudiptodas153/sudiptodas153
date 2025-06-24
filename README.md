@@ -21,7 +21,19 @@ I love solving UI challenges and turning ideas into reality through clean and fu
 
 
 🚀 **Skills & Technologies**
-<p align="left"> <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40" height="40"/> <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" height="40"/> <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40"/> <img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="40" height="40"/> <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" width="40" height="40"/> <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/> <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" width="40" height="40"/> <img src="https://img.icons8.com/color/48/figma.png" alt="Figma" width="40" height="40"/> </p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/figma.png" alt="Figma" width="40" height="40"/>
+</p>
 
 
 ## 🌐 Connect with Me
