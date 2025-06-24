@@ -42,3 +42,13 @@ I love solving UI challenges and turning ideas into reality through clean and fu
     <img src="https://img.icons8.com/color/30/000000/gmail--v1.png" alt="Email" style="vertical-align:middle; margin-left:10px;" />
   </a>
 </p>
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
