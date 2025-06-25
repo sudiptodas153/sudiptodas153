@@ -72,11 +72,3 @@ I love solving UI challenges and turning ideas into reality through clean and fu
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sudiptodas153&theme=flat&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-### 🏆 My GitHub Achievements
-
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Merged-success)
-![Issues](https://img.shields.io/badge/Issues-Resolved-blue)
-![Stars](https://img.shields.io/badge/Stars-Earned-yellow)
-![Commits](https://img.shields.io/badge/Commits-100%2B-green)
-
