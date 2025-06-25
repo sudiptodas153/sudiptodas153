@@ -68,4 +68,7 @@ I love solving UI challenges and turning ideas into reality through clean and fu
 </p>
 
 
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sudiptodas153&theme=gruvbox&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
