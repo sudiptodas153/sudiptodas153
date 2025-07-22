@@ -1,5 +1,5 @@
 # 🧑‍💻 Hi, I'm Sudipto Das
-### 💻 Frontend Web Developer | React & JavaScript Enthusiast
+### 💻 MERN Stack Developer | Frontend Web Developer | React & JavaScript Enthusiast
 
 ![GitHub Banner](https://raw.githubusercontent.com/sudiptodas153/sudiptodas153/main/website-development-banner_33099-1687.avif)
 
